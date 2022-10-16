@@ -8,4 +8,5 @@ Converting div and class style html to semantic. Creating a more accessable webs
 
 ### Refferences 
 <img src href= .\assets\css\images\challenge-1-screenshot.png >
-<url https://github.com/johndean3326/Octo-challenge>
+<url href= https://github.com/johndean3326/Octo-challenge>
+<url https://johndean3326.github.io/Octo-challenge/>
