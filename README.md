@@ -1,8 +1,11 @@
 # Code Refactor Starter Code
 
 
-## Desctiption
+## Fully deployed Horiseon website maximizing accessability in a semantic style.
 
-converting div and class style html to semantic. Creating a more accessable website. Also cleaning up the css style to make it more efficient, easy to read and service over time.
+Converting div and class style html to semantic. Creating a more accessable website. Also cleaning up the css style to make it more efficient, easy to read and service over time by consolodating the elements.
 
-<img src href=C:\Users\jldco\Desktop\Git_hub\Octo-challenge\Develop\assets\images\challenge-1-screenshot.png >
+
+### Refferences 
+<img src href= .\assets\css\images\challenge-1-screenshot.png >
+<url https://github.com/johndean3326/Octo-challenge>
