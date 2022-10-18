@@ -54,7 +54,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url(..\Develop\assets\images\digital-marketing-meeting.jpg);
+    background-image: url(../images/digital-marketing-meeting.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -199,6 +199,6 @@ p {
 .footer h2 {
     font-size: 20px;
 }
-/* Made changes to css to consolodate many redundancies. I commented out the un-necessary code and decided to leave them to show what i had done without completely compromizing my code.
+/* The .css gives the webpage its styling properties. I Made changes to css to consolodate many redundancies in the original code. I commented out the un-necessary code and decided to leave them to show what i had done without completely compromizing my code.
 It was made into a useful tool and wanted to showcase some of that. Normally i would delete it but since this is set to a class setting i left it. I used this tool multiple times as a way of checking the work i had done.
 Consolodating the redundancies into the parent element would reduce the amount of code to service in the future, also making expansion easier.*/
